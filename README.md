@@ -1,24 +1,21 @@
-# Remake DinDin em React
+# DinDin Remake in React
 
-Voltando ao inicio da jornada com o [DinDin](https://github.com/rafaelsangali/project-dindin) que originalmente foi feito em Html. Refiz ele aplicando conteúdos que aprendi em React
+Going back to the beginning of the journey with [DinDin](https://github.com/rafaelsangali/project-dindin), which was originally made in HTML. I remade it by applying concepts I learned in React.
 
-## ✌🏻​ Início
+## ✌🏻​ Getting Started
 
-Se quiser conferir em funcionamento, basta [clicar aqui](https://dindin-react.vercel.app/)
+If you want to see it in action, just [click here](https://dindin-react.vercel.app/).
 
-Se quiser conferir na sua máquina basta seguir os seguintes comandos:
+If you want to run it on your machine, simply follow these commands:
 
-```
 git clone https://github.com/rafaelsangali/gama-react.git
-```
 
-e para instalar pacotes e depedências:
+and to install the packages and dependencies:
 
-```
 npm install
-```
 
-## 📄 Reinforçando Aprendizados
 
-- Refatorando código
-- Componentizar elementos que se repetem
+## 📄 Reinforcing Learnings
+
+- Refactoring code
+- Componentizing elements that repeat
